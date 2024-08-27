@@ -15,6 +15,19 @@ Thus the distance of the two points is sucessfully executed and displayed.
 End the program.
 ### PROGRAM:
   ![Screenshot 2024-08-27 152726](https://github.com/user-attachments/assets/b267aebc-5bd1-4c50-ad2c-e6f5a02885e0)
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### OUTPUT:
   ![Screenshot 2024-08-27 152719](https://github.com/user-attachments/assets/29ba0b8d-5a17-4940-ae61-73896ef208a2)
 ### RESULT:
