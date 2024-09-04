@@ -1,5 +1,5 @@
 ## DATE:
-# DISTANCE-BETWEEN-TWO-POINTS
+# EX NO-3 DISTANCE-BETWEEN-TWO-POINTS
 ## AIM:
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
@@ -14,7 +14,16 @@ Thus the distance of the two points is sucessfully executed and displayed.
 ### Step 5: 
 End the program.
 ### PROGRAM:
-  ![Screenshot 2024-08-27 152726](https://github.com/user-attachments/assets/b267aebc-5bd1-4c50-ad2c-e6f5a02885e0)
+
+    import math
+  
+    x1, y1 = 4, 2
+
+    x2, y2 = 10, 6
+
+    distance = math.sqrt((x2 - x1)**2 + (y2 - y1)**2)
+
+    print("{:.2f}".format(distance))
 
 
 
